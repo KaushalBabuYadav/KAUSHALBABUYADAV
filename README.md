@@ -41,8 +41,19 @@ I'M A DIGITAL CRAFTSMAN WITH A PASSION FOR CLOUD TECHNOLOGIES AND MOVIES. I RUN 
 ### 📺 Latest Instagram Carousels
 
 <!-- BEGIN INSTAGRAM-CARDS -->
-[![THEEVERYTHINGVIBE MOVIE CAROUSEL](https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true)](https://www.instagram.com/p/DRW3xE6DKsl/?igsh=YnNqeGsycHNoZmh1)!
-[![I Tried Coding on Every OS // Here’s What I Learned](https://ytcards.demolab.com/?id=yz4i8vD-Klc&title=I+Tried+Coding+on+Every+OS+%2F%2F+Here%E2%80%99s+What+I+Learned&lang=en&timestamp=1763053302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1455 "I Tried Coding on Every OS // Here’s What I Learned")](https://www.youtube.com/watch?v=yz4i8vD-Klc)
-[![Java Isn't Verbose // we just suck](https://ytcards.demolab.com/?id=UZuWeLjyT3c&title=Java+Isn%27t+Verbose+%2F%2F+we+just+suck&lang=en&timestamp=1761941401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1275 "Java Isn't Verbose // we just suck")](https://www.youtube.com/watch?v=UZuWeLjyT3c)
-[![Everything You Need to Know About Coding with AI // NOT vibe coding](https://ytcards.demolab.com/?id=5fhcklZe-qE&title=Everything+You+Need+to+Know+About+Coding+with+AI+%2F%2F+NOT+vibe+coding&lang=en&timestamp=1760552100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=795 "Everything You Need to Know About Coding with AI // NOT vibe coding")](https://www.youtube.com/watch?v=5fhcklZe-qE)
-[![AI is writing 90% of your code?](https://ytcards.demolab.com/?id=howz8BKRUQM&title=AI+is+writing+90%25+of+your+code%3F&lang=en&timestamp=1758908426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "AI is writing 90% of your code?")](https://www.youtube.com/shorts/howz8BKRUQM)
+<!-- MINI 4:5 INSTAGRAM CAROUSEL SECTION -->
+<a href="https://www.instagram.com/p/DRW3xE6DKsl/?igsh=YnNqeGsycHNoZmh1" target="_blank">
+  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true" alt="THEEVERYTHINGVIBE POST 1" width="160" height="200"/>
+</a>
+
+<a href="https://www.instagram.com/p/DQ_7xMnDM20/?igsh=MW5iYnc2ZmM0cTd0dA==" target="_blank">
+  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true" alt="THEEVERYTHINGVIBE POST 2" width="160" height="200"/>
+</a>
+
+<a href="https://www.instagram.com/p/DPydzfajLjX/?igsh=MWI5NXp5dWZvaWppbA==" target="_blank">
+  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true" alt="THEEVERYTHINGVIBE POST 3" width="160" height="200"/>
+</a>
+
+<a href="https://www.instagram.com/p/DRHpqomjHcw/?igsh=YXJlajE4YXdyZTB5" target="_blank">
+  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true" alt="THEEVERYTHINGVIBE POST 4" width="160" height="200"/>
+</a>

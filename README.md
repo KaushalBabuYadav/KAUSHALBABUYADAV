@@ -2,7 +2,7 @@
 
 **`💻 DIGITAL CRAFTSMAN (CLOUD ENGINEERING ENTHUSIAST | CREATOR & LEARNER)`**
 
-I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run An Instagram Page Called [@Theeverythingvibe](https://www.instagram.com/theeverythingvibe?igsh=NDg0MXNiejVxNzY3) With 45000+ Followers, Where I Share Carousels And Creative Content About Movies. All My Projects, Whether Tech Or Content, Are Built From The Ground Up, From Ideation And Planning To Final Execution With An Artistic Touch.
+I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run An Instagram Page Called [@THEEVERYTHINGVIBE](https://www.instagram.com/theeverythingvibe?igsh=NDg0MXNiejVxNzY3) With 45000+ Followers, Where I Share Carousels And Creative Content About Movies. All My Projects, Whether Tech Or Content, Are Built From The Ground Up, From Ideation And Planning To Final Execution With An Artistic Touch.
 <p align="left">
  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 

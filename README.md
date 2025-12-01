@@ -1,16 +1,66 @@
-## Betichod 👋
+👋 HI, I’M KAUSHAL BABU YADAV
 
-<!--
-**KaushalBabuYadav/kaushalbabuYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ NEWTON’S THIRD LAW:
 
-Here are some ideas to get you started:
+YOU GOTTA LEAVE SOMETHING BEHIND.✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🚀 CLOUD & NETWORKING ENTHUSIAST
+
+A PASSIONATE TECH LEARNER FOCUSED ON CLOUD INFRASTRUCTURE, NETWORKING, AND MODERN DEVELOPMENT TECHNOLOGIES. I AM CONSTANTLY BUILDING, BREAKING, LEARNING, AND IMPROVING.
+
+⸻
+
+🧠 ABOUT ME
+	•	🌩️ CURRENTLY LEARNING: CLOUD COMPUTING, NETWORK SECURITY, PYTHON, AND FULL-STACK DEV
+	•	☁️ WORKING TOWARDS: BECOMING A CLOUD & NETWORK ENGINEER
+	•	🔧 GOALS: BUILD REAL-WORLD PROJECTS, CONTRIBUTE TO OPEN-SOURCE, AND UPSKILL DAILY
+	•	✨ FUN FACT: I NEVER STOP LEARNING
+
+⸻
+
+🛠️ TECH STACK & SKILLS
+
+🌐 PROGRAMMING LANGUAGES
+	•	PYTHON
+	•	JAVASCRIPT
+	•	JAVA
+	•	C / C++
+
+🏗️ WEB DEVELOPMENT
+	•	HTML / CSS
+	•	REACT
+	•	NODE.JS
+	•	SQL
+
+☁️ CLOUD & INFRASTRUCTURE
+	•	AWS
+	•	AZURE
+	•	GOOGLE CLOUD PLATFORM (GCP)
+
+🐧 SYSTEMS & VERSION CONTROL
+	•	LINUX
+	•	GIT / GITHUB
+
+⸻
+
+📊 GITHUB STATS & ACTIVITY
+
+⚠️ NOTE: REPLACE YOUR_USERNAME WITH YOUR REAL GITHUB USERNAME.
+
+⸻
+
+🔗 CONNECT WITH ME
+	•	LINKEDIN: https://www.linkedin.com/in/kaushal-yadav-7b651a301
+	•	INSTAGRAM: https://www.instagram.com/kaushal_john
+	•	EMAIL: kaushalyadavkkyy@gmail.com
+	•	FACEBOOK: https://www.facebook.com/share/17MHjnpMnX/?mibextid=wwXIfr
+	•	X (TWITTER): https://x.com/biggie80ss?s=21
+	•	PORTFOLIO: (COMING SOON)
+
+⸻
+
+💬 THANKS FOR VISITING MY PROFILE!
+
+⭐ FEEL FREE TO FORK, STAR OR CONNECT!

@@ -64,4 +64,11 @@ I'M A DIGITAL CRAFTSMAN WITH A PASSION FOR CLOUD TECHNOLOGIES AND MOVIES. I RUN 
 " target="_blank">
   <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/fe4d7e828bcc335d31cc381198a06fb9e007b561/%20%2Cj%2Ch.png" alt="THEEVERYTHINGVIBE POST 6" width="250" height="300"/>
 </a>
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+<a href="https://www.instagram.com/theeverythingvibe?igsh=NDg0MXNiejVxNzY3" target="_blank">
+ 
+</a>
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://www.instagram.com/theeverythingvibe?igsh=NDg0MXNiejVxNzY3" target="_blank">
+    <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/e569d9a2f5d797d6df2b70aa83a335d6779f5d03/dzf.png" alt="Follow on Instagram" width="200" height="80"/>
+  </a>
+</div>

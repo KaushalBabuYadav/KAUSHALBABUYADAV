@@ -26,9 +26,7 @@ I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run 
   <a href="https://x.com/biggie80ss?s=21" target="_blank">
     <img alt="Follow on X" title="Follow me on X" src="https://custom-icon-badges.demolab.com/badge/X-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-<a href="https://github.com/KaushalBabuYadav?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KaushalBabuYadav?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
+
 <a href="https://github.com/KaushalBabuYadav?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KaushalBabuYadav?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>

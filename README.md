@@ -5,12 +5,12 @@
 I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run An Instagram Page Called **[@LUSTFORCINEMA](https://www.instagram.com/lustforcinema?igsh=NDg0MXNiejVxNzY3)** With 70K+ Followers, Where I Share Carousels And Creative Content About Movies. All My Projects, Whether Tech Or Content, Are Built From The Ground Up, From Ideation And Planning To Final Execution With An Artistic Touch.
 <p align="left">
   <!-- Business Instagram -->
-  <a href="https://www.instagram.com/theeverythingvibe?igsh=NDg0MXNiejVxNzY3" target="_blank">
-    <img alt="instagram followers" title="Follow @THEEVERYTHINGVIBE" src="https://custom-icon-badges.demolab.com/badge/44.8K%20Followers-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Business"/>
+  <a href="https://www.instagram.com/lustforcinema?igsh=NDg0MXNiejVxNzY3" target="_blank">
+    <img alt="instagram followers" title="Follow @LUSTFORCINEMA" src="https://custom-icon-badges.demolab.com/badge/44.8K%20Followers-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Business"/>
   </a>
   <!-- Personal Instagram -->
-  <a href="https://www.instagram.com/kaushal_john/" target="_blank">
-    <img alt="instagram followers" title="Follow @KAUSHAL_JOHN" src="https://custom-icon-badges.demolab.com/badge/5.2K%20Followers-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&label=PERSONAL"/>
+  <a href="https://www.instagram.com/kaushaljohn_/" target="_blank">
+    <img alt="instagram followers" title="Follow @KAUSHALJOHN_" src="https://custom-icon-badges.demolab.com/badge/5.2K%20Followers-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&label=PERSONAL"/>
   </a>
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/1B5wuXYHro/?mibextid=wwXIfr" target="_blank">

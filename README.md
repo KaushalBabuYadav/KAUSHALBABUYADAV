@@ -84,7 +84,7 @@ I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run 
  
 </a>
 <div style="text-align: center; margin-top: 10px;">
-  <a href="https://https://www.instagram.com/lustforcinema" target="_blank">
+  <a href="https://www.instagram.com/lustforcinema" target="_blank">
     <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/LO.png?raw=true" alt="Follow on Instagram" width="250" height="85"/>
   </a>
 </div>

@@ -2,7 +2,7 @@
 
 **`💻 DIGITAL CRAFTSMAN (CLOUD ENGINEERING ENTHUSIAST | CREATOR & LEARNER)`**
 
-I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run An Instagram Page Called **[@LUSTFORCINEMA](https://www.instagram.com/lustforcinema?igsh=NDg0MXNiejVxNzY3)** With 75K+ Followers, Where I Share Carousels And Creative Content About Movies. All My Projects, Whether Tech Or Content, Are Built From The Ground Up, From Ideation And Planning To Final Execution With An Artistic Touch.
+I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run An Instagram Page Called **[@LUSTFORCINEMA](https://www.instagram.com/lustforcinema?igsh=NDg0MXNiejVxNzY3)** With 80K+ Followers, Where I Share Carousels And Creative Content About Movies. All My Projects, Whether Tech Or Content, Are Built From The Ground Up, From Ideation And Planning To Final Execution With An Artistic Touch.
 <p align="left">
   <!-- Business Instagram -->
   <a href="https://www.instagram.com/lustforcinema?igsh=NDg0MXNiejVxNzY3" target="_blank">
@@ -57,34 +57,47 @@ I'm A Digital Craftsman With A Passion For Cloud Technologies And Movies. I Run 
 ### 📺 Latest Instagram Carousels
 
 <!-- BEGIN INSTAGRAM-CARDS -->
-<!-- MINI 4:5 INSTAGRAM CAROUSEL SECTION -->
-<a href="https://www.instagram.com/p/DRW3xE6DKsl/?igsh=YnNqeGsycHNoZmh1" target="_blank">
-  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true" alt="THEEVERYTHINGVIBE POST 1" width="250" height="300"/>
-</a>
 
-<a href="https://www.instagram.com/p/DQ_7xMnDM20/?igsh=MW5iYnc2ZmM0cTd0dA==" target="_blank">
-  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/hfik.png?raw=true" alt="THEEVERYTHINGVIBE POST 2" width="250" height="300"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/p/DRW3xE6DKsl/?igsh=YnNqeGsycHNoZmh1" target="_blank">
+        <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/jhvjk.png?raw=true" width="250" height="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/p/DQ_7xMnDM20/?igsh=MW5iYnc2ZmM0cTd0dA==" target="_blank">
+        <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/hfik.png?raw=true" width="250" height="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/p/DPydzfajLjX/?igsh=MWI5NXp5dWZvaWppbA==" target="_blank">
+        <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/YIYLH.png?raw=true" width="250" height="300"/>
+      </a>
+    </td>
+  </tr>
 
-<a href="https://www.instagram.com/p/DPydzfajLjX/?igsh=MWI5NXp5dWZvaWppbA==" target="_blank">
-  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/YIYLH.png?raw=true" alt="THEEVERYTHINGVIBE POST 3" width="250" height="300"/>
-</a>
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/p/DRHpqomjHcw/?igsh=YXJlajE4YXdyZTB5" target="_blank">
+        <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/99d9d4fe74739c01c11a029b8155677cef513dc3/bbf.png" width="250" height="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/p/DP6MZgeiTfU/?igsh=dnBldHl3YTZqaDJk" target="_blank">
+        <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/HFK.png?raw=true" width="250" height="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/p/DPjVU5diele/?igsh=MWJuajRxemFveHEzeQ==" target="_blank">
+        <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/fe4d7e828bcc335d31cc381198a06fb9e007b561/%20%2Cj%2Ch.png" width="250" height="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.instagram.com/p/DRHpqomjHcw/?igsh=YXJlajE4YXdyZTB5" target="_blank">
-  <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/99d9d4fe74739c01c11a029b8155677cef513dc3/bbf.png" alt="THEEVERYTHINGVIBE POST 4" width="250" height="300"/>
-</a>
-<a href="https://www.instagram.com/p/DP6MZgeiTfU/?igsh=dnBldHl3YTZqaDJk" target="_blank">
-  <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/HFK.png?raw=true" alt="THEEVERYTHINGVIBE POST 5" width="250" height="300"/>
-</a>
-<a href="https://www.instagram.com/p/DPjVU5diele/?igsh=MWJuajRxemFveHEzeQ==
-" target="_blank">
-  <img src="https://raw.githubusercontent.com/KaushalBabuYadav/kaushalbabuYadav/fe4d7e828bcc335d31cc381198a06fb9e007b561/%20%2Cj%2Ch.png" alt="THEEVERYTHINGVIBE POST 6" width="250" height="300"/>
-</a>
-<a href="https://www.instagram.com/theeverythingvibe?igsh=NDg0MXNiejVxNzY3" target="_blank">
- 
-</a>
 <div style="text-align: center; margin-top: 10px;">
   <a href="https://www.instagram.com/lustforcinema" target="_blank">
-    <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/LO.png?raw=true" alt="Follow on Instagram" width="250" height="85"/>
+    <img src="https://github.com/KaushalBabuYadav/kaushalbabuYadav/blob/main/LO.png?raw=true" width="250" height="85"/>
   </a>
 </div>
